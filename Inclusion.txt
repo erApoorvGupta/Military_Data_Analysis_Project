@@ -1,0 +1,29 @@
+These are the topics that should be included in our project.
+
+We will maintain a documentaion in which what we are doing is recorded... This also includes scraped off ideas.
+
+1) Web scrapping (To extract information/facts related to our topics)
+2) document the process of acquiring the datset
+  -> Use oracle to load and merge dataserts (Do this in pandas)
+  -> Import that files as dataframes
+3) Data Cleaning
+  -> mean
+  -> KNN
+  # Do these 2 and show which is better for analysis.
+  -> One hot encoding.
+4) A short representation on using feature scaling. (Optional)
+5) Analysis on Data:
+  -> Matplot
+  -> Seaborn
+  -> flourish
+  -> imap type (if dataset includes locations)
+  -> Imp: Find diffrent atributes that are related to each other (Don't miss any possible analysis)
+  -> Show comparition in graphs using diffrent tools and show the best tool.
+5) Data Wrangling
+6) Use of algorithms
+  -> Regression
+  -> Clustering
+  -> Classification
+  
+  
+  This file will be kept updated and is the timeline we would like to follow

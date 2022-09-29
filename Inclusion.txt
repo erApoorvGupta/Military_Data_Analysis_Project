@@ -25,5 +25,5 @@ We will maintain a documentaion in which what we are doing is recorded... This a
   -> Clustering
   -> Classification
   
-  
+## We need to involve some prebuild applications which cabn test and create our ml algorithms
   This file will be kept updated and is the timeline we would like to follow
